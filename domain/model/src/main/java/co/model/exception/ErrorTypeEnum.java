@@ -6,4 +6,5 @@ public enum ErrorTypeEnum {
     CONFLICT,
     FORBIDDEN,
     INTERNAL_SERVER_ERROR,
+    UNAUTHORIZED
 }
